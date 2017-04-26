@@ -1,13 +1,13 @@
 Simulating better bus service
 =================
 
-<a href="http://www.transitchicago.com"><img src="http://dssg.io/img/partners/cta.png" align="right" width="150"></a>
+[<img src="https://dssg.uchicago.edu/wp-content/uploads/2015/10/cta.png" align="right" width="150">](http://www.transitchicago.com)
 
 Big data simulation of Chicago's public transportation to improve transit planning and reduce bus crowding.
 
-This project is a part of the 2013 [Data Science for Social Good](http://www.dssg.io) fellowship, in partnership with the [Chicago Transit Authority](http://www.transitchicago.com/).
+This project is a part of the 2013 [Data Science for Social Good](https://dssg.uchicago.edu) fellowship, in partnership with the [Chicago Transit Authority](http://www.transitchicago.com/).
 
-*For a quick and gentle overview of the project, check out our [blog post](http://dssg.io/2013/08/02/why-bus-crowding-happens.html).*
+*For a quick and gentle overview of the project, check out our [blog post](https://dssg.uchicago.edu/cta-why-bus-crowding-happens-and-how-data-can-help).*
 
 ## The problem: bus overcrowding
 The Chicago Transit Authority (CTA) has made a concerted effort to decrease the crowding on public transportation that has been a 
@@ -15,7 +15,7 @@ cause for concern over the last few years. The CTA has been collecting informati
 specific bus, the times at which more people board buses at a specific stop, and the delay times on different routes, among other
 things. This data, after some processing, is used to understand and modify schedules and routes for the following quarter.
 
-**[Read more about bus overcrowding on our blog](http://dssg.io/2013/08/02/why-bus-crowding-happens.html)**
+**[Read more about bus overcrowding on our blog](https://dssg.uchicago.edu/cta-why-bus-crowding-happens-and-how-data-can-help)**
 
 ## The solution: simulating Chicago's transit system
 While current best practices are data-focused, they are retrospective in nature. We propose to turn scheduling into a more 
@@ -41,28 +41,28 @@ Most of the information regarding the project idea can be found in the wiki sect
 ## Team
 
 **Mentor**
-![Brandon profile](http://dssg.io/img/people/willard.jpg) 
+![Brandon](http://dssg.uchicago.edu/wp-content/uploads/2015/10/willard.jpg) 
 
 <br>
-Brandon Willard <br>
-Research Consultant at Chicago Booth 
+Brandon T. Willard <br>
+Faculty Research Consultant at Chicago Booth 
 
 **Fellows**
 
-| ![Andres profile](http://dssg.io/img/people/carranza.jpg) | ![Jordan profile](http://dssg.io/img/people/bates.jpg) | ![Walter profile](http://dssg.io/img/people/dempsey.jpg) |![David profile](http://dssg.io/img/people/sekora.jpg) |
+| ![Andres](http://dssg.uchicago.edu/wp-content/uploads/2015/10/carranza.jpg) | ![Jordan](http://dssg.uchicago.edu/wp-content/uploads/2015/10/bates.jpg) | ![Walter](http://dssg.uchicago.edu/wp-content/uploads/2015/10/dempsey.jpg) |![David](http://dssg.io/img/people/sekora.jpg) |
 |:---:|:---:|:---:|:---:|
 | Andr&eacute;s Akle | Jordan Bates | Walter Dempsey | David Sekora |
 | Applied Mathematics and Telecommunications | Applied Math for Life and Social Science | Statistics | Mathematics and Computer Science |
 | Instituto Tecnol&oacute;gico Aut&oacute;nomo de M&eacute;xico | Arizona State University | University of Chicago (Hyde Park, baby!)| University of Chicago |
 
 ## Contributing to the project
-To get involved, please check the [issue tracker](https://github.com/dssg/bikeshare/issues).
+To get involved, please check the [issue tracker](https://github.com/dssg/cta-sim/issues).
 
-To get in touch, email Walter Dempsey at dempsey.walter@gmail.com.
+To get in touch, email Walter Dempsey at <dempsey.walter@gmail.com>.
 
 ## License 
 
-Copyright (C) 2013 [Data Science for Social Good Fellowship at the University of Chicago](http://dssg.io)
+Copyright (C) 2013 [Data Science for Social Good Fellowship at the University of Chicago](https://dssg.uchicago.edu)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
